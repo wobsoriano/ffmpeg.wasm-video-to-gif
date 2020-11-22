@@ -30,7 +30,7 @@
 </template>
 
 <script>
-import { onMounted, ref } from 'vue'
+import { ref } from 'vue'
 
 import useFFmpeg from './hooks/useFFmpeg'
 import Button from './components/Button.vue'
